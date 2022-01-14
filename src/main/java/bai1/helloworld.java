@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package baitap;
+package bai1;
 
 /**
  *
  * @author Shu
  */
-public class bai2 {
+public class helloworld {
     
     public static void main(String[] arge)
     {
